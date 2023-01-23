@@ -7,7 +7,7 @@ public class Looping {
 		if(a>=5) {
 			System.out.println("A is greater than 5");
 		}
-			
+			System.out.println("A is lesser than 5");
 		}
 	}
 
